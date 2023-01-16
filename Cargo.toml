@@ -1,0 +1,12 @@
+[package]
+name = "slack-flow-simple"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+path = "src/lib.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+slack-flows = "0.1"
+serde_json = "1.0"
