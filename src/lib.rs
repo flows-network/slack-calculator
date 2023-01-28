@@ -8,7 +8,7 @@ pub fn run() {
         let last_result = match sm.text == "C" {
             true => {
                 del("last_result");
-                0.0
+                return;
             }
             false => match get("last_result") {
                 Some(v) => v.as_f64().unwrap_or_default(),
