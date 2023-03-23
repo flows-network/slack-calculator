@@ -39,7 +39,7 @@ Click on the "Connect/+ Add new authentication" button to authenticate your Slac
 
 
 
-After that, click the Check button to see your flow details. As soon as the flow function's status becomes `ready` and the flow's status became `running`, the Slack calculator App goes live. Go ahead and calulator some thing!
+After that, click the Check button to see your flow details. As soon as the flow function's status becomes `ready` and the flow's status became `running`, the Slack calculator App goes live. Go ahead and calulate away in Slack!
 
 ![image](https://user-images.githubusercontent.com/45785633/226889061-a2443258-d8bf-4376-922a-dd85bd894d73.png)
 
