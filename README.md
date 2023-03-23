@@ -12,7 +12,7 @@ To install this Slack calulator App, we will use [flows.network](https://flows.n
 
 ### Fork this repo and write your own code
 
-Fork [this repo](https://github.com/flows-network/slack-calculator) and replace parameters in the red boxes with your own Slack workspace and channel in the code below.
+Fork [this repo](https://github.com/flows-network/slack-calculator) and replace parameters in the red boxes in the image below with your own Slack workspace and channel.
 
 ![image](https://user-images.githubusercontent.com/45785633/226887619-e6bc05ce-d16b-48bb-9902-6c8f2ee68ec3.png)
 
