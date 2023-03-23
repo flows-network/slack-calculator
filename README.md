@@ -8,7 +8,7 @@ This is a simple example to show how flows.network works when the trigger and ac
 
 ## Deploy Slack calculator App on your channel
 
-To install this Slack calulator App, we will use [flows.network](https://flows.network/), a serverless platform that makes deploying your own app quick and easy in just three steps.
+To install this Slack calulator App, we will use [flows.network](https://flows.network/), a serverless platform enables you to deploy your own app quick and easy in three simple steps.
 
 ### Fork this repo and write your own code
 
