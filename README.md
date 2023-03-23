@@ -17,7 +17,7 @@ Fork [this repo](https://github.com/flows-network/slack-calculator) and replace 
 ![image](https://user-images.githubusercontent.com/45785633/226887619-e6bc05ce-d16b-48bb-9902-6c8f2ee68ec3.png)
 
 
-### Deploy the code on flow.network
+### Deploy the code on flows.network
 
 1. Sign up for an account for deploying flows on [flows.network](https://flows.network/). It's free.
 2. Click on the "Create a Flow" button to start deploying the ChatGPT GitHub APP
