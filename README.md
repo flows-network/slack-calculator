@@ -29,7 +29,7 @@ Fork [this repo](https://github.com/flows-network/slack-calculator) and replace 
 
 ### Configure SaaS integrations
 
-After that, the flows.network will direct you to configure the SaaS integration required by your flow.
+Next, the flows.network will direct you to configure the SaaS integration required by your flow.
 
 ![image](https://user-images.githubusercontent.com/45785633/226888313-6e734828-f948-4e62-83fe-c26005aef445.png)
 
@@ -39,7 +39,7 @@ Click on the "Connect/+ Add new authentication" button to authenticate your Slac
 
 
 
-After that, click the Check button to see your flow details. As soon as the flow function's status becomes `ready` and the flow's status became `running`, the Slack calculator App goes live. Go ahead and calulate away in Slack!
+Now, click the Check button to see your flow details. As soon as the flow function's status becomes `ready` and the flow's status became `running`, the Slack calculator App goes live. Go ahead and calulate away in Slack!
 
 ![image](https://user-images.githubusercontent.com/45785633/226889061-a2443258-d8bf-4376-922a-dd85bd894d73.png)
 
